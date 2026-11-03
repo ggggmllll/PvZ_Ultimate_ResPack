@@ -1,0 +1,5 @@
+[STEEL_BUCKET_ZOMBIE]
+Zombie au seau d'acier
+
+[STEEL_BUCKET_ZOMBIE_DESCRIPTION]
+Son seau en acier lui permet d'encaisser d'énormes dégâts avant que son corps ne soit touché.

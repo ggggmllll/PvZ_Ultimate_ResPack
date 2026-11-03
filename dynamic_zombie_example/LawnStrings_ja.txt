@@ -1,0 +1,5 @@
+[STEEL_BUCKET_ZOMBIE]
+鋼鉄バケツゾンビ
+
+[STEEL_BUCKET_ZOMBIE_DESCRIPTION]
+鋼鉄のバケツが本体に届く前に、大量のダメージを吸収します。

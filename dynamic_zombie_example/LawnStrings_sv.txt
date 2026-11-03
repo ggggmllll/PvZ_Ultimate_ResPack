@@ -1,0 +1,5 @@
+[STEEL_BUCKET_ZOMBIE]
+Stålempers-zombie
+
+[STEEL_BUCKET_ZOMBIE_DESCRIPTION]
+Hans stålemp håller emot enorma mängder skada innan kroppen kan träffas.

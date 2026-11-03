@@ -1,0 +1,5 @@
+[STEEL_BUCKET_ZOMBIE]
+Zombi con secchio d'acciaio
+
+[STEEL_BUCKET_ZOMBIE_DESCRIPTION]
+Il suo secchio d'acciaio assorbe una grande quantità di danni prima che il corpo venga colpito.

@@ -1,0 +1,5 @@
+[STEEL_BUCKET_ZOMBIE]
+강철 양동이 좀비
+
+[STEEL_BUCKET_ZOMBIE_DESCRIPTION]
+강철 양동이가 몸에 피해가 닿기 전에 엄청난 피해를 흡수합니다.

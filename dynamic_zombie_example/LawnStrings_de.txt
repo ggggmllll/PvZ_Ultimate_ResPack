@@ -1,0 +1,5 @@
+[STEEL_BUCKET_ZOMBIE]
+Stahleimer-Zombie
+
+[STEEL_BUCKET_ZOMBIE_DESCRIPTION]
+Sein Stahleimer absorbiert enorme Mengen Schaden, bevor sein Körper getroffen werden kann.

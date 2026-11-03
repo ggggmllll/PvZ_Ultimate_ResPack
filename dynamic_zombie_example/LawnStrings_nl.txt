@@ -1,0 +1,5 @@
+[STEEL_BUCKET_ZOMBIE]
+Stalen emmer-zombie
+
+[STEEL_BUCKET_ZOMBIE_DESCRIPTION]
+Zijn stalen emmer absorbeert enorme schade voordat zijn lichaam wordt geraakt.

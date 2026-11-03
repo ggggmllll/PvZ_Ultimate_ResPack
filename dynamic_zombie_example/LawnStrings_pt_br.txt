@@ -1,0 +1,5 @@
+[STEEL_BUCKET_ZOMBIE]
+Zumbi do Balde de Aço
+
+[STEEL_BUCKET_ZOMBIE_DESCRIPTION]
+Seu balde de aço absorve uma enorme quantidade de dano antes que o corpo seja atingido.
