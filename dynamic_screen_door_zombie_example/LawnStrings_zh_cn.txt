@@ -1,0 +1,5 @@
+[REINFORCED_SCREEN_DOOR_ZOMBIE]
+强化铁门僵尸
+
+[REINFORCED_SCREEN_DOOR_ZOMBIE_DESCRIPTION]
+他的强化铁门能承受大量来自正面的伤害。铁门被磁力菇吸走后，他就失去了防护。

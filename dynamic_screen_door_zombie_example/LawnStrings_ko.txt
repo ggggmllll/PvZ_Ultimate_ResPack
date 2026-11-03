@@ -1,0 +1,5 @@
+[REINFORCED_SCREEN_DOOR_ZOMBIE]
+강화 철문 좀비
+
+[REINFORCED_SCREEN_DOOR_ZOMBIE_DESCRIPTION]
+강화된 철문이 정면에서 받는 큰 피해를 흡수합니다. 자석버섯이 철문을 빼앗으면 무방비 상태가 됩니다.

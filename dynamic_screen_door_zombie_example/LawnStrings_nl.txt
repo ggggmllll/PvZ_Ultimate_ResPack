@@ -1,0 +1,5 @@
+[REINFORCED_SCREEN_DOOR_ZOMBIE]
+Zombie met versterkte deur
+
+[REINFORCED_SCREEN_DOOR_ZOMBIE_DESCRIPTION]
+Zijn versterkte deur absorbeert enorme frontale schade. Zodra de Magneetschimmel hem afpakt, is hij weerloos.

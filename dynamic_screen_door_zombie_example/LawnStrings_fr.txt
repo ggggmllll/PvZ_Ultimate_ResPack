@@ -1,0 +1,5 @@
+[REINFORCED_SCREEN_DOOR_ZOMBIE]
+Zombie à porte blindée
+
+[REINFORCED_SCREEN_DOOR_ZOMBIE_DESCRIPTION]
+Sa porte blindée absorbe une énorme quantité de dégâts frontaux. Une fois arrachée par la Champignon magnétique, il n'a plus aucune protection.

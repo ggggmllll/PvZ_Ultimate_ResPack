@@ -1,0 +1,5 @@
+[REINFORCED_SCREEN_DOOR_ZOMBIE]
+Zombie med förstärkt dörr
+
+[REINFORCED_SCREEN_DOOR_ZOMBIE_DESCRIPTION]
+Hans förstärkta dörr absorberar enorma mängder frontal skada. När Magnetsvampen tar den är han oskyddad.

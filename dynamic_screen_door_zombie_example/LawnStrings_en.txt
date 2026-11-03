@@ -1,0 +1,5 @@
+[REINFORCED_SCREEN_DOOR_ZOMBIE]
+Reinforced Screen Door Zombie
+
+[REINFORCED_SCREEN_DOOR_ZOMBIE_DESCRIPTION]
+His reinforced screen door absorbs a huge amount of frontal damage. Once Magnet-shroom pulls it away, he is left unprotected.

@@ -1,0 +1,5 @@
+[REINFORCED_SCREEN_DOOR_ZOMBIE]
+強化ドアゾンビ
+
+[REINFORCED_SCREEN_DOOR_ZOMBIE_DESCRIPTION]
+強化されたドアが正面からの大きなダメージを吸収します。マグネットマッシュルームにドアを奪われると無防備になります。

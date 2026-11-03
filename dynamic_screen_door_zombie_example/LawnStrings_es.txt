@@ -1,0 +1,5 @@
+[REINFORCED_SCREEN_DOOR_ZOMBIE]
+Zombi con puerta reforzada
+
+[REINFORCED_SCREEN_DOOR_ZOMBIE_DESCRIPTION]
+Su puerta reforzada absorbe una gran cantidad de daño frontal. Cuando la Magnetoseta se la quita, queda indefenso.

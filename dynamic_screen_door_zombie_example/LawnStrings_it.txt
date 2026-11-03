@@ -1,0 +1,5 @@
+[REINFORCED_SCREEN_DOOR_ZOMBIE]
+Zombi con porta rinforzata
+
+[REINFORCED_SCREEN_DOOR_ZOMBIE_DESCRIPTION]
+La sua porta rinforzata assorbe una grande quantità di danni frontali. Quando il Fungo magnetico la rimuove, resta indifeso.

@@ -1,0 +1,5 @@
+[REINFORCED_SCREEN_DOOR_ZOMBIE]
+Zombie mit verstärkter Fliegengittertür
+
+[REINFORCED_SCREEN_DOOR_ZOMBIE_DESCRIPTION]
+Seine verstärkte Tür absorbiert enorme Mengen Frontalsschaden. Zieht ihm der Magnetschwamm die Tür weg, ist er schutzlos.

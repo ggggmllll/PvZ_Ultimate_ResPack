@@ -1,0 +1,5 @@
+[REINFORCED_SCREEN_DOOR_ZOMBIE]
+Zumbi com Porta Reforçada
+
+[REINFORCED_SCREEN_DOOR_ZOMBIE_DESCRIPTION]
+Sua porta reforçada absorve uma enorme quantidade de dano frontal. Quando o Cogumelo Magnético a remove, ele fica indefeso.
